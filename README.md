@@ -6,7 +6,8 @@ I'm Robin Dorst but you may know me by my nickname Lopfi.
 🔭 I’m currently working on a MC-Plugin  
 🌱 I’m currently learning Tensor Flow  
 🎯 Where to find me:  
-   <a href="https://discordapp.com/users/304221361851596802">Discord</a>  
+<a href="https://discordapp.com/users/357871005093462019"><img src="https://img.shields.io/badge/Lopfi%2192-000000?style=flat-square&logo=discord"></a>
+
    
 ### 🛠  Technologies and Tools
 
@@ -15,6 +16,7 @@ I'm Robin Dorst but you may know me by my nickname Lopfi.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f2d53c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&color=003B57)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=000000)
