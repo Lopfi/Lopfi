@@ -6,7 +6,7 @@ I'm Robin Dorst but you may know me by my nickname Lopfi.
 🔭 I’m currently working on a MC-Plugin  
 🌱 I’m currently learning Tensor Flow  
 🎯 Where to find me:  
-<a href="https://discordapp.com/users/357871005093462019"><img src="https://img.shields.io/badge/Lopfi%2192-000000?style=flat-square&logo=discord"></a>
+<a href="https://discordapp.com/users/357871005093462019"><img src="https://img.shields.io/badge/Lopfi-000000?style=flat-square&logo=discord"></a>
 
    
 ### 🛠  Technologies and Tools
