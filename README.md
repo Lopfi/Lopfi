@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Robin Dorst but you may know me by my nickname Lopfi.
+I'm Robin Dorst but you may know me by my nickname Lopfi.  
+I  really enjoy working on projects that help me learn new things and technologies so that Iam constantly improving my own skillset. I'm a fullstack developer but also like to work on Discord bots MC-Plugins or more hardware related projects with microcontrollers and IoT.
 
 ### About Me
 
@@ -11,7 +12,6 @@ I'm Robin Dorst but you may know me by my nickname Lopfi.
    
 ### 🛠  Technologies and Tools
 
-![Windows](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00a8e8)
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white&color=eb2d2f) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f2d53c)
@@ -23,6 +23,7 @@ I'm Robin Dorst but you may know me by my nickname Lopfi.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white&color=00979D)
 ![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white&color=0696D7)
+![Windows](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00a8e8)
 ![Intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white&color=000000)
 
 
