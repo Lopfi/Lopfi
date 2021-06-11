@@ -8,7 +8,7 @@ I make custom discord bots and all kind of other development so if you are inter
 🔭 I’m currently working on a Discord bot  
 🌱 I’m currently learning Tensor Flow  
 🎯 Where to find me:  
-<a href="https://discordapp.com/users/304221361851596802"><img src="https://img.shields.io/badge/Lopfi%232192-000000?style=flat-square&logo=discord"></a>
+<a href="https://discordapp.com/users/304221361851596802"><img src="https://img.shields.io/badge/Lopfi%233141-000000?style=flat-square&logo=discord"></a>
 
    
 ### 🛠  Technologies and Tools
