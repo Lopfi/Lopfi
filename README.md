@@ -1,15 +1,16 @@
 ### Hi there 👋
 I'm Robin Dorst but you may know me by my nickname Lopfi.  
 I  really enjoy working on projects that help me learn new things and technologies so that Iam constantly improving my own skillset. Iam a fullstack developer but also like to work on Discord bots, MC-Plugins or more hardware related projects with microcontrollers and IoT.
-I make custom discord bots and all kind of other development so if you are interested just write me.
+I make custom discord bots and all kind of other development so if you are interested just contact me.
 
 ### About Me
 
 🔭 I’m currently working on a cool website
 🌱 I’m currently learning Tensor Flow  
 🎯 Where to find me:  
-<a href="https://discordapp.com/users/304221361851596802"><img src="https://img.shields.io/badge/Lopfi%233141-000000?style=flat-square&logo=discord"></a>
-<a href="https://www.instagram.com/robinthemaker/"><img src="https://img.shields.io/badge/RobinTheMaker-000000?style=flat-square&logo=instagram"></a>
+<a href="https://discordapp.com/users/304221361851596802"><img src="https://img.shields.io/badge/Lopfi%233141-1A1B27?style=flat-square&logo=discord"></a>
+<a href="https://www.instagram.com/robinthemaker/"><img src="https://img.shields.io/badge/RobinTheMaker-1A1B27?style=flat-square&logo=instagram"></a>
+<a href="https://www.thingiverse.com/lopfi95/designs"><img src="https://img.shields.io/badge/Lopfi95-1A1B27?style=flat-square&logo=Thingiverse"></a>
 
    
 ### 🛠  Technologies and Tools
