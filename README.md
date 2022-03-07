@@ -7,6 +7,7 @@ I make custom discord bots and all kind of other development so if you are inter
 
 🔭 I’m currently working on a cool website  
 🌱 I’m currently learning Verilog
+
 🎯 Where to find me:  
 <a href="https://discordapp.com/users/304221361851596802"><img src="https://img.shields.io/badge/Lopfi%233584-1A1B27?style=flat-square&logo=discord"></a>
 <a href="https://www.instagram.com/robinthemaker/"><img src="https://img.shields.io/badge/RobinTheMaker-1A1B27?style=flat-square&logo=instagram"></a>
